@@ -38,7 +38,5 @@ Ways to choose the optimum K value: Elbow method , Purpose based
 * **Libraries** : NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 * **IDE** : Google Colab
 * **Dataset** : Mall Customer Segmentation Data (Kaggle : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
-## Demo Video Link
-
-## LinkedIn Post Link
-
+## LinkedIn Post Link with Demo video
+https://www.linkedin.com/posts/bhavya-bhageerathi-575b32281_datascience-codeclauseproject-customersegmenationsystem-activity-7092579891707015169-hUX3?utm_source=share&utm_medium=member_desktop
