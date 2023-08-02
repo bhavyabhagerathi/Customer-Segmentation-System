@@ -8,7 +8,7 @@ Customer segmentation is the process of dividing a customer base into distinct g
 * Clustering analysis
 * Choosing optimal hyperparameters
 * Visualization and interpretation
-### Types of segementation factors :
+### Types of segmentation factors :
 * Demographic : Age, gender, income, etc.
 * Psychographic : Interests, lifestyles, priorities, etc.
 * Behavioural : Purchasing & spending habits, user status, brand interactions, etc.
@@ -20,7 +20,7 @@ Customer segmentation is the process of dividing a customer base into distinct g
 * Acquisition & retention
 * Increases revenue & ROI
 ## Unsupervised Learning 
-It involves traning of machine using information that is neother classified nor labelled and allowing the algorithm to act on that information without guidance.
+It involves traning of machine using information that is neither classified nor labelled and allowing the algorithm to act on that information without guidance.
 Types : Association, Clustering.
 ### K-means Algorithm 
 K-Means Clustering is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science. K-means clustering is a widely used method for cluster analysis where the aim is to partition a set of objects into K clusters in such a way that the sum of the squared distances between the objects and their assigned cluster mean is minimized.
